@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.centerSpisok {
+  margin-top: 30px;
+  display: flex;  
+  flex-direction: column;
+  align-items: center;
+}
+
+.line {
+  display: flex;
+  flex-direction: row;  
+  margin: auto;
+  width: 400px;
+}
+
+.width1 {
+  width: 60%;
+}
+.width2 {
+  width: 20%;
+}
+
+.width3 {
+  width: 20%;
+}
+
+.li {
+  display: flex;
+
+}
